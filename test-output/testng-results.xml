@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11215" started-at="2019-04-14T19:50:10Z" finished-at="2019-04-14T19:50:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11215" started-at="2019-04-14T19:50:10Z" finished-at="2019-04-14T19:50:22Z">
+      <class name="Testngdemo1.NewTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="openBrowser" is-config="true" duration-ms="11137" started-at="2019-04-14T19:49:59Z" finished-at="2019-04-14T19:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplicationURL()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="enterApplicationURL" is-config="true" duration-ms="2303" started-at="2019-04-14T19:50:10Z" finished-at="2019-04-14T19:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationURL -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="maximizeBrowser" is-config="true" duration-ms="1175" started-at="2019-04-14T19:50:13Z" finished-at="2019-04-14T19:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="getCookies" is-config="true" duration-ms="73" started-at="2019-04-14T19:50:14Z" finished-at="2019-04-14T19:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="loginwithvaliduser2()[pri:2, instance:Testngdemo1.NewTest@482f8f11]" name="loginwithvaliduser2" duration-ms="6907" started-at="2019-04-14T19:50:14Z" description="Verify that valid user2 able to login into Mercury Tours application by using valid username and password" finished-at="2019-04-14T19:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvaliduser2 -->
+        <test-method status="PASS" signature="captureScreenShot()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="captureScreenShot" is-config="true" duration-ms="647" started-at="2019-04-14T19:50:21Z" finished-at="2019-04-14T19:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenShot -->
+        <test-method status="PASS" signature="deleteAllcookies()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="deleteAllcookies" is-config="true" duration-ms="26" started-at="2019-04-14T19:50:21Z" finished-at="2019-04-14T19:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllcookies -->
+        <test-method status="PASS" signature="dbConnectionclosed()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="dbConnectionclosed" is-config="true" duration-ms="1" started-at="2019-04-14T19:50:22Z" finished-at="2019-04-14T19:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnectionclosed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Testngdemo1.NewTest@482f8f11]" name="closeBrowser" is-config="true" duration-ms="90" started-at="2019-04-14T19:50:22Z" finished-at="2019-04-14T19:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testngdemo1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
