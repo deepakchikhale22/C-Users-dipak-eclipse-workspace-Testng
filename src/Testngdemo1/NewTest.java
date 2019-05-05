@@ -113,6 +113,8 @@ public class NewTest {
   @BeforeTest
   public void enterApplicationURL() 
   {
+	  
+	  System.out.println("url");
 	  System.out.println("In enterApplicationURL method under BeforeTest");
 	  driver.get("http://newtours.demoaut.com/mercurywelcome.php");
 	  System.out.println("Application url is entered successfully");
