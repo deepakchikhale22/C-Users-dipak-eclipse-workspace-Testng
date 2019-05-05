@@ -96,6 +96,7 @@ public class NewTest {
   @BeforeClass
   public void maximizeBrowser() 
   {
+	  System.out.println("browser");
 	  System.out.println("in maximizebrowser");
 	  System.out.println();
 	  System.out.println("In maximizeBrowser method under BeforeClass");
